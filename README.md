@@ -4,6 +4,8 @@
 
 - We have scraped 16000 reviews from Google app playstore from our desired applications. Please refer "Scraping Google playstore app reviews" repository for scraping the reviews
 
+- Utlilized NLTK and regular expressions to implement the text pre-processing modules and SMOTE to balance class labels.
+
 - Our project implements ML classification models using Logistic Regression, SVM Classifier, KNN Classifier, Naive Bayes, Random Forest Classifier, Decision Tree Classifier to predict the sentiment on the test dataset.
 
 - In addition, we are improving the classifier by training the reviews dataset using the BERT (Bi-directional Encoding Representations from Transformers) transformer through Hugging Face.
@@ -33,6 +35,15 @@
 Obviously, BERT gave the best results on both train and validation datasets when we trained our model for 10 epochs. 
 
 Furthermore, we are using FastAPI to build a web framework for our trained model and we are testing it with various reviews from the app store. The model has given really good results and once can enhance it further to improve the predicions.
+
+Get to know more about FastAPI through this link: https://fastapi.tiangolo.com/
+
+Test the model through FastAPI using: http://127.0.0.1:8000/docs
+
+### Snapshot of the working of FastAPI
+
+
+
 
 Happy Coding!
 

@@ -34,15 +34,21 @@
 
 Obviously, BERT gave the best results on both train and validation datasets when we trained our model for 10 epochs. 
 
-Furthermore, we are using FastAPI to build a web framework for our trained model and we are testing it with various reviews from the app store. The model has given really good results and once can enhance it further to improve the predicions.
 
-Get to know more about FastAPI through this link: https://fastapi.tiangolo.com/
+### FastAPI
 
-Test the model through FastAPI using: http://127.0.0.1:8000/docs
+- Furthermore, we are using FastAPI to build a web framework for our trained model and we are testing it with various reviews from the app store. The model has given really good results and once can enhance it further to improve the predicions.
+
+- Get to know more about FastAPI through this link: https://fastapi.tiangolo.com/
+
+- Test the model through FastAPI using: http://127.0.0.1:8000/docs
 
 ### Snapshot of the working of FastAPI
 
+<img width="934" alt="Capture" src="https://user-images.githubusercontent.com/66754032/95029010-93266880-066a-11eb-9c62-1645a9a36c11.PNG">
 
+
+<img width="898" alt="Capture" src="https://user-images.githubusercontent.com/66754032/95029023-afc2a080-066a-11eb-8818-1964d4dd78b5.PNG">
 
 
 Happy Coding!

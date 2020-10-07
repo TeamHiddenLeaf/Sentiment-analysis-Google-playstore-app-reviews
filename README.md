@@ -50,6 +50,8 @@ Obviously, BERT gave the best results on both train and validation datasets when
 
 <img width="898" alt="Capture" src="https://user-images.githubusercontent.com/66754032/95029023-afc2a080-066a-11eb-8818-1964d4dd78b5.PNG">
 
+#### Credits: Venelin Valkov
+
 
 Happy Coding!
 
